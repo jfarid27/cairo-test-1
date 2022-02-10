@@ -1,0 +1,12 @@
+[tool]
+[tool.poetry]
+authors = ["Your Name <you@example.com>"]
+name = ["Your Name <you@example.com>"]
+version = "0.0.1"
+description = "Testing"
+[tool.poetry.dependencies]
+cairo-lang = "0.7.0"
+ecdsa = "^0.17.0"
+fastecdsa = "^2.2.3"
+python = "^3.8"
+sympy = "^1.9.0"
